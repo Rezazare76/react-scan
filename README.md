@@ -1,4 +1,4 @@
-# react-scan-vite
+# react-scan
 
 📖 Read this article on Medium: 👉 [How to Detect and Fix React Re-renders](https://medium.com/@rezazare2088/how-to-detect-and-fix-react-re-renders-a0c6a1bdbb6a)
 
@@ -13,8 +13,8 @@ Built with **Vite**, **React 19**, **TypeScript**, and **Tailwind CSS**.
 Before you dive in, get the project running locally:
 
 ```bash
-git clone https://github.com/Rezazare76/react-scan-vite.git
-cd react-scan-vite
+git clone https://github.com/Rezazare76/react-scan.git
+cd react-scan
 npm install
 npm run dev
 ```
@@ -23,7 +23,7 @@ Open the URL shown in your terminal (usually `http://localhost:5173`). React Sca
 
 | Resource                   | Link                                                                                   |
 | -------------------------- | -------------------------------------------------------------------------------------- |
-| This repository            | [github.com/Rezazare76/react-scan-vite](https://github.com/Rezazare76/react-scan-vite) |
+| This repository            | [github.com/Rezazare76/react-scan](https://github.com/Rezazare76/react-scan) |
 | React Scan (npm)           | [npmjs.com/package/react-scan](https://www.npmjs.com/package/react-scan)               |
 | React Scan (official site) | [react-scan.com](https://react-scan.com)                                               |
 | Live demo (Next.js)        | [react-scan-nextjs-demo.vercel.app](https://react-scan-nextjs-demo.vercel.app)         |

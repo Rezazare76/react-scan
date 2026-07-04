@@ -10,7 +10,7 @@ export function Footer() {
       <nav className="flex items-center gap-5">
         <a
           className={FOOTER_LINK}
-          href="https://github.com/Rezazare76/react-scan-vite"
+          href="https://github.com/Rezazare76/react-scan"
           target="_blank"
           rel="noreferrer"
         >
